@@ -1,0 +1,11 @@
+.venv/
+**/.local/
+__pycache__/
+*.py[cod]
+.DS_Store
+.env
+.env.*
+account.json
+downloads/
+*.eml
+*.log
